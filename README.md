@@ -7,11 +7,6 @@
 <col width="100%" />
 <tbody>
 <tr class="odd">
-<td align="left"><br />
-<table>
-<col width="10%" />
-<tbody>
-<tr class="odd">
 <td align="left"><p>vhd 사용하기</p>
 <p><br /></p>
 <p><br /></p>
@@ -523,8 +518,6 @@
 <p>이 글은 위의 출처 3곳에 있는 정보를 모아서 재구성하였습니다.</p>
 <p><br /></p></td>
 </tr>
-</tbody>
-</table>
 <p><br /></p></td>
 </tr>
 </tbody>
